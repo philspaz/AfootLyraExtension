@@ -1,4 +1,4 @@
-# AfootLyraExtension
+# Afoot Lyra FPS
  Added functionality to Lyra Starter Project for learning purposes
 
 **Disclaimer** This is a work in progress, there's probably lots of bugs and it's not optimzed well. 
